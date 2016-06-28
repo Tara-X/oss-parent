@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <name>stackbox.cn parent pom</name>
-    <description>FasterXML.com parent pom</description>
+    <description>stackbox.cn parent pom</description>
     <url>http://github.com/superalsrk/</url>
     <organization>
         <name>superalsrk</name>
